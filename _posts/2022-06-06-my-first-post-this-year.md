@@ -6,8 +6,6 @@ categories: Website
 tags: [Github, Website]
 ---
 
-## How I built my new website
-
 1. I created a github account
 2. I cloned a repository from https://github.com/datamaunz
 3. I renamed the cloned repository Gorgeouslook.github.io
